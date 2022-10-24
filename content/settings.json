@@ -1,7 +1,8 @@
 {
   "store_id": 1503,
   "name": "mispamoveis",
-  "domain": "mispamoveis.netlify.app",
+  "domain": "www.minasordenha.com.br",
+  "repository": "ecomplus-stores/mispamoveis",
   "short_name": "mispamoveis",
   "description": "mispamoveis",
   "primary_color": "#222831",
