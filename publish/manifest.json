@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.af31a86524cd40662aa205b19b49b416.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.c1e5ae6a73568a150a338aa53a9e2677.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.cfe6f470bd8f04048fd5abd24156225e.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.95fa793a96466598ff963e45f91f1f2a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.46a5793783cad8fe554dfb88389754bc.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "mispamoveis",
+  "short_name": "mispamoveis",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "mispamoveis",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
