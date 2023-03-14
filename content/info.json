@@ -5,8 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "PARCELAMENTO EM ATÉ 12 X",
-    "title": "PARCELAMOS EM ATÉ 12 X COM  TAXA."
+    "text": "PARCELAMENTO EM ATÉ 12 X TAXA",
+    "title": ""
   },
   "exchange": {
     "show": true,
