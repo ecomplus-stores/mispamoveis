@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "O MELHOR CUSTO BENEFICIO!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,7 +11,7 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
+        "title": "LOJA DE MÓVEIS PARA SALÃO",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
@@ -22,8 +23,9 @@
     "random": 6,
     "full_width": false
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": true,
+  "centralized_logo": true
 }
