@@ -2,5 +2,12 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### P﻿AGAMENTO NO PIX, E CARTÃO DE CREDITO EM ATÉ 12 X COM A TAXA",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02.jpeg",
+      "mobile_img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02-1-.jpeg"
+    }
+  ]
 }
