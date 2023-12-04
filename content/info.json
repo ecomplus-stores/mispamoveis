@@ -1,19 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "ENTREGAS ABCD, LITORAL, GRANDE SÃO PAULO E REGIÃO METROPOLITANA"
+    "text": "Consulte entregas especiais para  ABCD, LITORAL, GRANDE SÃO PAULO E REGIÃO METROPOLITANA",
+    "title": "Envio para Todo Brasil ",
+    "link": "https://www.mispamoveis.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "PARCELAMENTO EM ATÉ 12 X TAXA",
-    "title": "EM ATÉ 12 VEZES"
+    "text": "",
+    "title": "Parcele em até 12x no cartão",
+    "link": "https://www.mispamoveis.com.br/pages/pagamentos"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
