@@ -1,5 +1,13 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "estetica",
+    "kits-beleza",
+    "salao-de-beleza",
+    "kit-salao-beleza",
+    "armarios",
+    "lavatorios",
+    "manicure"
+  ],
   "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
