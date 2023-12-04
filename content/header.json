@@ -1,31 +1,47 @@
 {
   "marketing_stripe": {
-    "text": "O MELHOR CUSTO BENEFICIO!",
-    "link": "/promotion",
-    "background": "#000000"
+    "text": "",
+    "link": "",
+    "background": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Cadastrar / Entrar",
+        "link": "https://www.mispamoveis.com.br/app/#/account/"
       },
       {
-        "title": "LOJA DE MÓVEIS PARA SALÃO",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Meus Pedidos",
+        "link": "https://www.mispamoveis.com.br/app/#/account/orders"
+      },
+      {
+        "title": "Como Comprar"
+      },
+      {
+        "title": "Sobre nós",
+        "link": "https://www.mispamoveis.com.br/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/estetica?ESTÉTICA",
+      "/kits-beleza?Kits Beleza",
+      "/salao-de-beleza?Salão de Beleza",
+      "/cadeiras?Cadeiras",
+      "/kit-salao-beleza?KIT SALÃO BELEZA",
+      "/moveis-em-mdf?MOVEIS EM MDF",
+      "/lavatorios?Lavatórios",
+      "/manicure?MANICURE"
+    ],
+    "random": 12,
     "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true,
-  "centralized_logo": true
+  "centralized_logo": false
 }
