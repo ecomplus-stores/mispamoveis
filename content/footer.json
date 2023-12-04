@@ -5,12 +5,36 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Sobre Nós",
+        "url": "https://www.mispamoveis.com.br/pages/sobre-nos"
+      },
+      {
+        "text": "Entregas e Frete",
+        "url": "https://www.mispamoveis.com.br/pages/entrega"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "https://www.mispamoveis.com.br/pages/pagamentos"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Segurança e Privacidade",
+        "url": "https://www.mispamoveis.com.br/pages/privacidade"
+      },
+      {
+        "text": "Trocas e Devolução",
+        "url": "https://www.mispamoveis.com.br/pages/trocas"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
+    "list_categories": false,
+    "title": "Navegue por categorias",
     "list": []
   },
   "contacts": {
@@ -22,12 +46,12 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/seguranca.png",
       "alt": "Secure connection"
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,14 +59,14 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
     "pix": true,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
