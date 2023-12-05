@@ -2,5 +2,27 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**COMO COMPRAR?**\n\nÉ muito fácil comprar seus produtos na MISPA MOVEIS\n\nEscolha seus produtos, clique em adicionar ao carrinho ou no botão comprar, ele será adicionado ao seu carrinho.\n\nApós escolher todos os produtos que desejar. Clique no carrinho em Finalizar Compra\n\nDefina o frete de envio\n\nConfirme seus dados para envio, confira se todos os dados estão corretos, caso falte alguma numeração ou dado para envio, o retorno e reenvio será cobrado do cliente, não nos responsabilizamos por informações incorretas ou dados faltantes.\n\nEscolha a forma de pagamento e finalize a compra.\n\nPronto, seu pedido será embalado para postagem.\n\n**QUAL É A FORMA E O PRAZO DE ENTREGA?**\n\nO prazo de entrega depende do CEP de destino e será informado na página de finalização do pedido, a entrega será realizada pelos Transportadora , Retirada ou Entrega Própria.\n\n**A﻿BCD E GRANDE SÃO PAULO**, ENTREGA REALIZADA COM CARRO PROPRIO, FRETE CONFORME LOCALIDADE. ATÉ 150 KM\nA﻿CIMA DE 150 KM E D﻿EMAIS REGIÕES OU ESTADOS REALIZADO POR TRANSPORTADORA.\n\nE﻿M ALGUNS ESTADOS NÃO ENTREGAMOS, DUVIDAS CONSULTE NOSSO SUPORTE DE ATENDIMENTO\n\n**QUAIS SÃO AS FORMAS DE PAGAMENTO?**\n\nVocê pode pagar com cartão de crédito ou  depósito bancário/ PIX, neste caso você será instruído no próprio site e por e-mail sobre a conta e como proceder com o pagamento.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
