@@ -16,10 +16,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "page": 1,
       "title": "Estética, veja aqui",
       "shuffle": true,
@@ -69,6 +65,20 @@
       "sort": "news",
       "link": "https://www.mispamoveis.com.br/lavatorios",
       "title": "Tudo para seu Salão de Beleza - Veja Lavatórios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "614bcdcc48adaf6e63a574fe:categories:MANICURE:/manicure",
+      "sort": "views",
+      "link": "https://www.mispamoveis.com.br/manicure",
+      "title": "Móveis para Manicure"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
