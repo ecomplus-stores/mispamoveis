@@ -51,16 +51,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63ed271cf4167e223c90cc64:categories:ARMÁRIOS:/armarios",
-      "sort": "views",
-      "link": "https://www.mispamoveis.com.br/moveis-em-mdf",
-      "title": "Mobiliário em MDF "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "611c3b1bcfbcd970598122b1:categories:Lavatórios:/lavatorios",
       "sort": "news",
       "link": "https://www.mispamoveis.com.br/lavatorios",
@@ -75,6 +65,16 @@
       "sort": "views",
       "link": "https://www.mispamoveis.com.br/manicure",
       "title": "Móveis para Manicure"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63ed271cf4167e223c90cc64:categories:ARMÁRIOS:/armarios",
+      "sort": "news",
+      "link": "https://www.mispamoveis.com.br/moveis-em-mdf",
+      "title": "Mobiliário em MDF "
     },
     {
       "type": "info-bar",
