@@ -20,18 +20,55 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Estética, veja aqui",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.mispamoveis.com.br/estetica",
       "limit": 12,
-      "page": 1
+      "collection_id": "611ab839cfbcd970597fc6dd:categories:ESTÉTICA:/estetica",
+      "sort": "views"
     },
     {
-      "type": "page-title",
-      "title": "Movéis para Salão"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "611c3ac2cfbcd97059812273:categories:Salão de Beleza:/salao-de-beleza",
+      "sort": "views",
+      "link": "https://www.mispamoveis.com.br/salao-de-beleza",
+      "title": "Monte seu Salão de Beleza"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "611c3af3cfbcd9705981229f:categories:Cadeiras:/cadeiras",
+      "sort": "views",
+      "link": "https://www.mispamoveis.com.br/cadeiras",
+      "title": "Cadeiras - Envio para Todo Brasil"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63ed271cf4167e223c90cc64:categories:ARMÁRIOS:/armarios",
+      "sort": "views",
+      "link": "https://www.mispamoveis.com.br/moveis-em-mdf",
+      "title": "Mobiliário em MDF "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "611c3b1bcfbcd970598122b1:categories:Lavatórios:/lavatorios",
+      "sort": "news",
+      "link": "https://www.mispamoveis.com.br/lavatorios",
+      "title": "Tudo para seu Salão de Beleza - Veja Lavatórios"
     }
   ]
 }
