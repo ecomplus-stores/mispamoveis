@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Informações",
     "list": [
       {
@@ -20,7 +20,8 @@
         "url": "https://www.mispamoveis.com.br/pages/pagamentos"
       },
       {
-        "text": "Como Comprar"
+        "text": "Como Comprar",
+        "url": "https://www.mispamoveis.com.br/pages/faq"
       },
       {
         "text": "Segurança e Privacidade",
