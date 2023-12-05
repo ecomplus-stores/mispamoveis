@@ -2,8 +2,30 @@
   "title": "QUEM SOMOS",
   "date": "",
   "thumbnail": "/img/uploads/2.jpg",
-  "description": "SOMOS NOS \n",
+  "description": "Quem Somos\n",
   "body": "![](/img/uploads/1.jpg)",
   "meta_title": "",
-  "meta_description": ""
+  "meta_description": "",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
