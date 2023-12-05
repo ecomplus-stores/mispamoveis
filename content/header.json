@@ -15,7 +15,8 @@
         "link": "https://www.mispamoveis.com.br/app/#/account/orders"
       },
       {
-        "title": "Como Comprar"
+        "title": "Como Comprar",
+        "link": "pages/faq"
       },
       {
         "title": "Sobre nós",
