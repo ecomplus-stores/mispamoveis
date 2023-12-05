@@ -36,7 +36,44 @@
   "links_2": {
     "list_categories": false,
     "title": "Navegue por categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Estética",
+        "url": "https://www.mispamoveis.com.br/estetica"
+      },
+      {
+        "text": "Kits Beleza",
+        "url": "https://www.mispamoveis.com.br/kits-beleza"
+      },
+      {
+        "text": "Macas",
+        "url": "https://www.mispamoveis.com.br/macas"
+      },
+      {
+        "text": "Salão de Beleza",
+        "url": "https://www.mispamoveis.com.br/salao-de-beleza"
+      },
+      {
+        "text": "Cadeiras",
+        "url": "https://www.mispamoveis.com.br/cadeiras"
+      },
+      {
+        "url": "https://www.mispamoveis.com.br/lavatorios",
+        "text": "Lavatórios"
+      },
+      {
+        "text": "Mobiliário em MDF",
+        "url": "https://www.mispamoveis.com.br/moveis-em-mdf"
+      },
+      {
+        "text": "Recepção",
+        "url": "https://www.mispamoveis.com.br/mobiliario-recepcao"
+      },
+      {
+        "text": "Manicure",
+        "url": "https://www.mispamoveis.com.br/manicure"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
