@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bb9de980343c4214078ddfe5871ee8c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2b43b125c1c21da55814479e907f98be.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5235f478391923e33253a8d06b8890e8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.34273cae5b77fd3356616623f7f82db4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ef4dd364782021b94d2f5dc311eff70d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MISPA MÓVEIS PARA SALÃO",
+  "short_name": "MISPA MÓVEIS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Mispa Móveis é uma empresa de segmento de móveis para salão de beleza, onde alguns desses móveis podem  ser usados em ambientes domésticos, comerciais e corporativos, empresa criada em  2019\nMóveis profissionais para cabeleireiros, barbearia, esteticistas, manicures, designer de cilios e sombrancelhas, micropgmentação, tatuadores, massagistas, trancistas, maquiadores, extensionistas, etc...",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
