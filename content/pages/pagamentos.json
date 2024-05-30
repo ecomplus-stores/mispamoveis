@@ -2,12 +2,35 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### P﻿AGAMENTO NO PIX, E CARTÃO DE CREDITO EM ATÉ 12 X COM A TAXA",
+  "body": "<!--StartFragment-->\n\n### Formas de Pagamento na Mispa Móveis\n\nNa Mispa Móveis, oferecemos diversas opções de pagamento para que você escolha a que melhor se adapta às suas necessidades. Confira abaixo e aproveite nossos benefícios exclusivos:\n\n#### 📲 PIX\n\n* **Vantagem:** Garanta **15% de desconto** em suas compras.\n* **Praticidade:** Pagamento rápido e seguro.\n\n#### 🏦 Boleto\n\n* **Facilidade:** Emita o boleto e pague no banco ou pela internet.\n* **Conveniência:** Mais tempo para planejar seu pagamento.\n\n#### 💳 Cartão de Crédito\n\n* **Flexibilidade:** Parcele suas compras em até **10x sem juros**.\n* **Comodidade:** Use os principais cartões de crédito do mercado.\n\n#### Após a Compra\n\n* **Confirmação Rápida:** Finalizou a compra? Encaminharemos o link de pagamento diretamente pelo [WhatsApp](https://wa.me/5511991349355?text=Ola%20estou%20na%20sua%20loja), garantindo agilidade e segurança.\n\n### Mora fora de São Paulo?\n\nSe você reside fora de São Paulo, fale conosco pelo [WhatsApp ](https://wa.me/5511991349355?text=Ola%20estou%20na%20sua%20loja)para verificar descontos exclusivos no frete. Estamos prontos para oferecer soluções personalizadas para você.\n\n### Mais Sobre Nosso Frete Personalizado\n\nClique[ \\[aqui]](https://www.mispamoveis.com.br/pages/entrega) para saber mais sobre nossas opções de frete e como podemos entregar seus móveis com segurança e eficiência.\n\nEscolha a Mispa Móveis e tenha a melhor experiência de compra, desde o pagamento até a entrega!\n\n<!--EndFragment-->",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02.jpeg",
-      "mobile_img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02-1-.jpeg"
+      "img": "/img/uploads/__chamadamaio.webp",
+      "mobile_img": "/img/uploads/__chamadamobile.webp"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "DESTAQUES DA LOJA"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
