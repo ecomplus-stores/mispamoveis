@@ -5,15 +5,24 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2024-05-30T15:20:36.953Z",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.01-1-.jpeg",
-          "mobile_img": ""
+          "img": "/img/uploads/__renovesalao.webp",
+          "mobile_img": "/img/uploads/__renovesalao-mobile.webp",
+          "link": "https://www.mispamoveis.com.br/lavatorios",
+          "alt": "Renove seu Salão de Beleza com Mispa Móveis"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__chamadamaio.webp",
+      "link": "https://www.mispamoveis.com.br/pages/entrega",
+      "alt": "Frete - MIspa Mòveis - para Salão de Beleza e Estética",
+      "mobile_img": "/img/uploads/__chamadamobile.webp"
     },
     {
       "page": 1,
