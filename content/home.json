@@ -66,6 +66,12 @@
       "title": "Tudo para seu Salão de Beleza - Veja Lavatórios"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__whatsappfrete.webp",
+      "link": "https://www.mispamoveis.com.br/pages/entrega",
+      "alt": "Saiba mais"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
