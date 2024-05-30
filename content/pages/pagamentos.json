@@ -21,6 +21,11 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__whatsappfrete.webp",
+      "link": "https://wa.me/5511991349355?text=Ola%20estou%20na%20sua%20loja"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
