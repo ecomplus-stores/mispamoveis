@@ -5,6 +5,11 @@
   "body": "### **A﻿BCD E GRANDE SÃO PAULO, ENTREGA REALIZADA COM CARRO PROPRIO, FRETE CONFORME LOCALIDADE. ATÉ 150 KM**\n\n**A﻿CIMA DE 150 KM E D﻿EMAIS REGIÕES OU ESTADOS REALIZADO POR TRANSPORTADORA.**\n\n**E﻿M ALGUNS ESTADOS NÃO ENTREGAMOS, DUVIDAS CONSULTE NOSSO SUPORTE DE ATENDIMENTO**\n\n**11 99134-9355**",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__chamadamaio.webp",
+      "mobile_img": "/img/uploads/__chamadamobile.webp"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -12,13 +17,15 @@
       "type": "page-title"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02-3-.jpeg",
-      "mobile_img": "/img/uploads/whatsapp-image-2023-04-17-at-14.09.02-2-.jpeg"
-    },
-    {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__whatsappfrete.webp",
+      "mobile_img": "",
+      "link": "https://wa.me/5511991349355?text=Ola%20estou%20na%20sua%20loja",
+      "alt": "Desconto FRETE OUTROS ESTADOS - Mispa Móveis"
     },
     {
       "type": "dynamic-showcase",
