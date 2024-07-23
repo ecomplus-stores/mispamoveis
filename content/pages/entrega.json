@@ -6,8 +6,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__chamadamaio.webp",
-      "mobile_img": "/img/uploads/__chamadamobile.webp"
+      "img": "/img/uploads/__chamada-jl.webp",
+      "mobile_img": "/img/uploads/__chamadamobile-jl.webp"
     },
     {
       "type": "breadcrumbs",
