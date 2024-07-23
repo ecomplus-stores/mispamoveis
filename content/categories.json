@@ -2,8 +2,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__chamadamaio.webp",
-      "mobile_img": "/img/uploads/__chamadamobile.webp",
+      "img": "/img/uploads/__chamada-jl.webp",
+      "mobile_img": "/img/uploads/__chamadamobile-jl.webp",
       "link": "https://www.mispamoveis.com.br/pages/entrega",
       "alt": "Mispa Móveis - Móveis para Salão de Beleza e Estética"
     },
