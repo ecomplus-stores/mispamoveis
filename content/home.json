@@ -38,7 +38,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611c3b1bcfbcd970598122b1:categories:Lavatórios:/lavatorios",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.mispamoveis.com.br/lavatorios",
       "title": "Tudo para seu Salão de Beleza - Veja Lavatórios"
     },
@@ -48,7 +48,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "614bcdcc48adaf6e63a574fe:categories:Manicure:/manicure",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.mispamoveis.com.br/manicure",
       "title": "Móveis para Manicure"
     },
@@ -58,7 +58,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611c3ac2cfbcd97059812273:categories:Salão de Beleza:/salao-de-beleza",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.mispamoveis.com.br/salao-de-beleza",
       "title": "Monte seu Salão de Beleza"
     },
@@ -74,7 +74,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "611c3af3cfbcd9705981229f:categories:Cadeiras:/cadeiras",
-      "sort": "views",
+      "sort": "sales",
       "link": "https://www.mispamoveis.com.br/cadeiras",
       "title": "Cadeiras - Envio para Todo Brasil"
     },
@@ -87,7 +87,7 @@
       "link": "https://www.mispamoveis.com.br/estetica",
       "limit": 12,
       "collection_id": "611ab839cfbcd970597fc6dd:categories:Estética:/estetica",
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -95,7 +95,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63ed2b84f4167e223c90d3ae:categories:Móveis em MDF:/moveis-em-mdf",
-      "sort": "sales",
+      "sort": "views",
       "link": "https://www.mispamoveis.com.br/moveis-em-mdf",
       "title": "Mobiliário em MDF "
     },
